@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TP3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TP3_exo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP3_exo1-Debug-1155521311683d028ffd.json",
+					"name" : "TP3_exo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TP3_exo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP3_exo2-Debug-00ecc02191df398b801e.json",
+					"name" : "TP3_exo2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TP3_exo3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP3_exo3-Debug-830ac048e2d381ec94d6.json",
+					"name" : "TP3_exo3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TP3_exo4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP3_exo4-Debug-c953a378f537215db638.json",
+					"name" : "TP3_exo4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TP3_exo5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP3_exo5-Debug-2c4ec45693eac1dc37e1.json",
+					"name" : "TP3_exo5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TP3_exo6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP3_exo6-Debug-eebd87f93a5904ff6bcd.json",
+					"name" : "TP3_exo6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/arthur/CLionProjects/TP3/cmake-build-debug",
+		"source" : "/Users/arthur/CLionProjects/TP3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
